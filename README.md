@@ -86,4 +86,4 @@ Feel free to explore the projects and contribute to improve them! If you have an
 
 **Mohammad Shahabuddin**
 
-[GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/xshshahab) | [Twitter](https://twitter.com/xshshahab)
+[GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/mdshahabuddin82) | [Twitter](https://twitter.com/xsh_shahab)
