@@ -35,6 +35,18 @@ This repository contains a collection of mini projects developed using HTML, CSS
    - CSS
    - JavaScript
 
+2. **Image Search Engine**
+
+   ![Image Search Engine Preview](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectTwoTheme.png)
+
+   This project allows users to search for images using keywords and displays the results in a grid layout.
+
+   ### Technologies Used
+
+   - HTML
+   - CSS
+   - JavaScript
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
