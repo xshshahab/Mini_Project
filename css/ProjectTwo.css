@@ -64,8 +64,7 @@ form button {
     font-size: 1rem;
     border: none;
     outline: none;
-    border-top-right-radius: 8px;
-    border-bottom-right-radius: 8px;
+    border-radius: 8px;
     cursor: pointer;
 }
 
