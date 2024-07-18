@@ -51,7 +51,7 @@ You need to have Git installed on your local machine. You can download it from [
     ```
 2. Navigate to the project directory
     ```sh
-    cd Mini_Project/Themes
+    cd Mini_Project/
     ```
 
 ## Contributing
