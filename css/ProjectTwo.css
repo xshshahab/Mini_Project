@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: #290038;
+    color: #fff;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px auto 40px;
+    font-weight: 600;
+}
+
+h1 .h1-title {
+    color: #b411d4;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 .h1-span {
+    border-bottom: 3px solid #b411d4;
+}
+
+form {
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background: rgba(128, 1, 175, 0.4);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+form input {
+    flex: 1;
+    height: 40px;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0 15px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+form button {
+    height: 40px;
+    width: auto;
+    padding: 0 20px;
+    background: #14025b;
+    color: #fff;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    cursor: pointer;
+}
+
+::placeholder {
+    color: #ffffff7a;
+    font-size: 1rem;
+}
+
+#show-more-btn {
+    background: #281f57;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin: 10px auto 100px;
+    cursor: pointer;
+    display: none;
+    font-size: 1rem;
+}
+
+#search-result {
+    width: 90%;
+    max-width: 1000px;
+    margin: 50px auto;
+    display: grid;
+    grid-gap: 20px;
+}
+
+#search-result img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.popup-template {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(212, 171, 235, 0.3);
+    color: #e5e4e4;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    max-width: 90%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.popup-content {
+    max-width: 100%;
+    margin: 10px auto;
+}
+
+.popup-content h2 {
+    font-size: 2rem;
+    line-height: 1.3;
+}
+
+.popup-content p {
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+    #search-result {
+        grid-template-columns: 1fr;
+    }
+}
