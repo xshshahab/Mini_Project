@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            color: antiquewhite;
-            background-color: #2f2d2d;
-        }
-
-        h1 {
-            font-size: 35px;
-            text-align: center;
-        }
-    </style>
+    <title>QR Code Generator App</title>
+    <link rel="stylesheet" href="../css/ProjectFive.css">
 </head>
-<body>
-    <h1>I'm currently engaged in a new project...</h1>
+<body style="background: #262a2f;">
+    
+    <div class="wrapper">
+        <p>Enter your text or URL</p>
+        <input type="text" placeholder="Text or URL" id="qrText">
+        <div id="imgBox">
+            <img src="" id="qrImage">
+        </div>
+        <button onclick="generateQR()">Generate QR Code</button>
+    </div>
+
+    <script src="../scripts/ProjectFive.js"></script>
 </body>
 </html>
