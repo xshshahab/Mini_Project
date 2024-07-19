@@ -34,7 +34,7 @@ This repository contains a collection of mini projects developed using HTML, CSS
    - HTML
    - CSS
    - JavaScript
-
+---
 2. **Image Search Engine**
 
    ![Image Search Engine Preview](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectTwoTheme.png)
@@ -48,6 +48,7 @@ This repository contains a collection of mini projects developed using HTML, CSS
    - CSS
    - JavaScript
 
+---
 3. **Age Calculator App**
 
 ![Age Calculator Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectThreeTheme.png)
@@ -99,7 +100,7 @@ You can easily customize the theme by modifying the CSS and JavaScript files. He
 - **Add New Features**: Consider adding functionalities like saving user data, customizing date formats, or integrating with other APIs for enhanced user experience.
 - **Improve UI/UX**: Enhance the visual appeal and usability by refining the design and interactive elements.
 
-
+---
 4. **Age Calculator App**
 
 ![Quiz App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFourTheme.png)
@@ -135,8 +136,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Select your answer for each question and click "Next" to proceed.
 3. View your score at the end of the quiz.
 
-
-# QR Code Generator App
+---
+5. **QR Code Generator App**
 
 ![QR Code Generator App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFiveTheme.png)
 
