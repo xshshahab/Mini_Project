@@ -141,14 +141,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ![QR Code Generator App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFiveTheme.png)
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Ideas for Enhancements](#ideas-for-enhancements)
-
 ## Overview
 The QR Code Generator App allows users to create custom QR codes for URLs, text, and other data. It's a simple and efficient tool to generate QR codes for various purposes.
 
@@ -156,9 +148,6 @@ The QR Code Generator App allows users to create custom QR codes for URLs, text,
 - Generate QR codes for URLs, text, and other data
 - Customizable QR code size
 - Clean and intuitive UI
-
-## Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Installation
 1. Clone the repository:
@@ -193,6 +182,31 @@ Feel free to modify this markdown file as needed for your project.
 
 ---
 
+6. **Sticky Notes App**
+
+![Sticky Notes App](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectSixTheme.png)
+
+## Project Description
+
+The Sticky Notes App is a simple and intuitive application that allows users to create and manage virtual sticky notes. This app is designed to help users keep track of their tasks, ideas, and reminders in an organized and visually appealing manner.
+
+## Features
+
+- **Create Sticky Notes**: Easily add new sticky notes with a click of a button.
+- **Delete Sticky Notes**: Remove sticky notes that are no longer needed.
+- **Responsive Design**: The app is fully responsive and works seamlessly on different devices and screen sizes.
+
+## Contribution Instructions
+
+We welcome contributions to make the Sticky Notes App even better! Here are some ideas for contributions:
+
+1. **Add More Features**: Think of new functionalities that can enhance the user experience.
+2. **Improve Responsiveness**: Ensure the app looks great and works well on all devices.
+3. **Optimize Code**: Refactor and optimize the existing code for better performance and readability.
+4. **Fix Bugs**: Identify and fix any bugs or issues that may arise.
+5. **Edit Sticky Notes**: Update the content of your sticky notes at any time.
+
+---
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
@@ -213,7 +227,7 @@ You need to have Git installed on your local machine. You can download it from [
     ```
 
 ## Contributing
-
+We appreciate your contributions and look forward to seeing the amazing features.
 If you'd like to contribute to this project, please follow these steps:
 
 1. **Fork the repository**.
@@ -248,6 +262,6 @@ Distributed under the MIT License.
 - If you have any questions or inquiries, feel free to contact me please [Mohammad Shahabuddin](mailto:mdshahbuddin9504@gmail.com).
 
 **Mohammad Shahabuddin. ©  All rights reserved.**
-- Let's connect socially.
+- Let's connect socially. Happy coding!
 
 [GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/mdshahabuddin82) | [Twitter](https://twitter.com/xsh_shahab)
