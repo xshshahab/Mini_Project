@@ -93,25 +93,6 @@ You can easily customize the theme by modifying the CSS and JavaScript files. He
 - **Adding New Sections**: Modify the HTML structure to include new sections or components.
 - **Enhancing Functionality**: Add new JavaScript functions to extend the theme's capabilities.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature/your-feature-name
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -m "Add your commit message"
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature/your-feature-name
-    ```
-5. **Create a new Pull Request**.
-
 ### Contribution Ideas
 
 - **Make the Project Responsive**: Ensure the age calculator works seamlessly across various screen sizes and devices.
@@ -141,13 +122,22 @@ You need to have Git installed on your local machine. You can download it from [
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+If you'd like to contribute to this project, please follow these steps:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. **Fork the repository**.
+2. **Create a new branch**:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. **Commit your changes**:
+    ```bash
+    git commit -m "Add your commit message"
+    ```
+4. **Push to the branch**:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. **Create a new Pull Request**.
 
 ## License
 
@@ -157,11 +147,10 @@ Distributed under the MIT License.
 
 ## Contact
 
-If you have any questions or inquiries, feel free to contact me please [Mohammad Shahabuddin](mailto:mdshahbuddin9504@gmail.com).
-
-Feel free to explore the projects and contribute to improve them!
-
+- Feel free to explore the projects and contribute to improve them!
+- If you have any questions or inquiries, feel free to contact me please [Mohammad Shahabuddin](mailto:mdshahbuddin9504@gmail.com).
 
 **Mohammad Shahabuddin. ©  All rights reserved.**
+- Let's connect socially.
 
 [GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/mdshahabuddin82) | [Twitter](https://twitter.com/xsh_shahab)
