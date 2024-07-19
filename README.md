@@ -48,7 +48,7 @@ This repository contains a collection of mini projects developed using HTML, CSS
    - CSS
    - JavaScript
 
-2. **Age Calculator App**
+3. **Age Calculator App**
 
 ![Age Calculator Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectThreeTheme.png)
 
@@ -99,6 +99,97 @@ You can easily customize the theme by modifying the CSS and JavaScript files. He
 - **Add New Features**: Consider adding functionalities like saving user data, customizing date formats, or integrating with other APIs for enhanced user experience.
 - **Improve UI/UX**: Enhance the visual appeal and usability by refining the design and interactive elements.
 
+
+4. **Age Calculator App**
+
+![Quiz App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFourTheme.png)
+
+
+## Overview
+The Simple Quiz App is a user-friendly application designed to test your knowledge on various topics. It presents multiple-choice questions and provides immediate feedback, making it a fun and engaging way to learn.
+
+## Features
+- Multiple choice questions
+- Immediate feedback on answers
+- Score tracking
+- Clean and intuitive UI
+
+## Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/xshshahab/Mini_Project.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Mini_Project/QuizApp
+    ```
+
+3. Open the `index.html` file in your browser to view the app.
+
+### Usage
+1. Start the quiz by clicking the "Start Quiz" button.
+2. Select your answer for each question and click "Next" to proceed.
+3. View your score at the end of the quiz.
+
+
+# QR Code Generator App
+
+![QR Code Generator App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFiveTheme.png)
+
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Ideas for Enhancements](#ideas-for-enhancements)
+
+## Overview
+The QR Code Generator App allows users to create custom QR codes for URLs, text, and other data. It's a simple and efficient tool to generate QR codes for various purposes.
+
+## Features
+- Generate QR codes for URLs, text, and other data
+- Customizable QR code size
+- Clean and intuitive UI
+
+## Getting Started
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/xshshahab/Mini_Project.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Mini_Project/QRCodeGenerator
+    ```
+
+3. Open the `index.html` file in your browser to view the app.
+
+### Usage
+- Enter the data (URL, text, etc.) you want to encode in the QR code.
+- Click "Generate QR Code" to create the QR code.
+
+
+## Ideas for Enhancements
+1. **Custom QR Code Design**: Allow users to customize the design of the QR code, including colors, shapes, and logos.
+2. **Bulk QR Code Generation**: Enable users to generate multiple QR codes at once by uploading a CSV file or entering multiple data points.
+3. **QR Code Scanner**: Integrate a QR code scanner to read and decode QR codes using the device's camera.
+4. **History and Favorites**: Implement a feature to save generated QR codes for future reference and mark some as favorites.
+5. **Dynamic QR Codes**: Create dynamic QR codes that can be updated with new data without changing the QR code itself.
+6. **Analytics**: Provide analytics for generated QR codes, such as the number of scans and location data.
+7. **Integration with Other Apps**: Allow QR codes to be generated from data in other apps or services, such as contact information from address books or events from calendars.
+8. **Security Features**: Add password protection or encryption for the data encoded in the QR code.
+9. **API Integration**: Create an API for developers to generate QR codes programmatically.
+
+Feel free to modify this markdown file as needed for your project.
+
 ---
 
 ## Getting Started
@@ -138,6 +229,11 @@ If you'd like to contribute to this project, please follow these steps:
     git push origin feature/your-feature-name
     ```
 5. **Create a new Pull Request**.
+
+### Contribution Guidelines
+- Make sure your code is well-documented.
+- Ensure the project remains responsive.
+- Add any new features in a separate branch and create a pull request.
 
 ## License
 
