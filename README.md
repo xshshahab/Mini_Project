@@ -40,6 +40,7 @@ This repository contains a collection of mini projects developed using HTML, CSS
    ![Image Search Engine Preview](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectTwoTheme.png)
 
    This project allows users to search for images using keywords and displays the results in a grid layout.
+   - Important Note: API access key has been removed to prevent misuse.
 
    ### Technologies Used
 
@@ -86,4 +87,4 @@ Feel free to explore the projects and contribute to improve them! If you have an
 
 **Mohammad Shahabuddin**
 
-[GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/xshshahab) | [Twitter](https://twitter.com/xshshahab)
+[GitHub](https://github.com/xshshahab) | [LinkedIn](https://linkedin.com/in/mdshahabuddin82) | [Twitter](https://twitter.com/xsh_shahab)
