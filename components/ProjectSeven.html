@@ -3,20 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            color: antiquewhite;
-            background-color: #2f2d2d;
-        }
-
-        h1 {
-            font-size: 35px;
-            text-align: center;
-        }
-    </style>
+    <title>Drag & Drog - 7th Mini Project</title>
+    <link rel="stylesheet" href="../css/ProjectSeven.css">
 </head>
 <body>
-    <h1>I'm currently engaged in a new project...</h1>
+    <div class="wrapper">
+        <h1><span style="color: #041c6b;">Drag</span> & <span style="color: #fff243;">Drop</span></h1>
+        <div class="container">
+            <div id="left">
+                <div class="list" draggable="true">
+                    Testing item 1
+                </div>
+                <div class="list" draggable="true">
+                    Testing item 2
+                </div>
+                <div class="list" draggable="true">
+                    Testing item 3
+                </div>
+                <div class="list" draggable="true">
+                    Testing item 4
+                </div>
+            </div>
+            <div id="right"></div>
+        </div>
+    </div>
+
+    <script src="../scripts/ProjectSeven.js"></script>
 </body>
 </html>
