@@ -207,6 +207,24 @@ We welcome contributions to make the Sticky Notes App even better! Here are some
 5. **Edit Sticky Notes**: Update the content of your sticky notes at any time.
 
 ---
+7. **Drag & Drop Project**
+## Screenshot
+![Project Screenshot](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectSevenTheme.png)
+
+## Description
+This project features a Drag & Drop interface with a clean and modern design. The layout is optimized for desktop and mobile devices, using a gradient background and minimal box shadow for enhanced visual appeal.
+
+## Features
+- Drag and Drop functionality
+- Responsive design for mobile devices
+- Gradient background with blue and purple hues
+- Minimal box shadow for content boxes
+
+### Prerequisites
+- A modern web browser
+- Local development server (optional)
+
+---
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
