@@ -48,7 +48,7 @@ This repository contains a collection of mini projects developed using HTML, CSS
    - CSS
    - JavaScript
 
-# Age Calculator Theme
+2. **Age Calculator App**
 
 ![Age Calculator Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectThreeTheme.png)
 
@@ -82,7 +82,7 @@ To use this theme in your project:
     ```
 3. **Open the HTML file in your browser** to view the theme:
     ```bash
-    open index.html
+    open ProjectThree.html 
     ```
 
 ## Customization
