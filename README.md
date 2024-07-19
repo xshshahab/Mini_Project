@@ -101,7 +101,7 @@ You can easily customize the theme by modifying the CSS and JavaScript files. He
 - **Improve UI/UX**: Enhance the visual appeal and usability by refining the design and interactive elements.
 
 ---
-4. **Age Calculator App**
+4. **Simple Quiz App**
 
 ![Quiz App Theme](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectFourTheme.png)
 
