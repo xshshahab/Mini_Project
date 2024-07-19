@@ -1,4 +1,4 @@
-﻿# IntroTheme Project
+﻿# Intro Mini Project 
 ## Overview
 
 IntroTheme is a stylish and minimalist landing page template designed to introduce a website or application. It features a clean layout with modern typography and subtle animations.
