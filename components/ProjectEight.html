@@ -2,21 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body {
-            color: antiquewhite;
-            background-color: #2f2d2d;
-        }
-
-        h1 {
-            font-size: 35px;
-            text-align: center;
-        }
-    </style>
+    <link rel="stylesheet" href="../css/ProjectEight.css">
+    <title>To Do List - Last Mini Project</title>
 </head>
 <body>
-    <h1>I'm currently engaged in a new project...</h1>
+    <div class="container">
+        <div class="input-container">
+            <h1>To-Do List App</h1>
+            <input type="text" placeholder="Add a new to do..." id="inputBox">
+            <input type="button" value="Add" id="addBtn">
+        </div>
+
+        <ul class="todoList" id="todoList">
+            <!-- <li><p>Task1</p></li>
+            <li>Task2</li>
+            <li>Task3</li> -->
+        </ul>
+    </div>
+
+    <script src="../scripts/ProjectEight.js"></script>
 </body>
 </html>
