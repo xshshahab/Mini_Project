@@ -225,6 +225,39 @@ This project features a Drag & Drop interface with a clean and modern design. Th
 - Local development server (optional)
 
 ---
+8. **To-Do List App**
+
+![Project Preview](https://github.com/xshshahab/Mini_Project/blob/main/Themes/ProjectEightTheme.png)
+
+## Introduction
+
+The To-Do List App is a simple and intuitive application designed to help you manage your daily tasks efficiently. It allows you to add, edit, and delete tasks, keeping your to-do list organized and up-to-date.
+
+## Features
+
+- Add new tasks with ease
+- Edit existing tasks
+- Delete tasks you no longer need
+- Responsive design for mobile and desktop
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+### Prerequisites
+
+You need to have a web browser installed on your computer.
+
+## Usage
+
+1. To add a new task, type your task into the input field and click the "Add Task" button.
+2. To mark a task as completed, click the checkbox next to the task.
+3. To edit a task, click the "Edit" button next to the task, modify the text, and save the changes.
+4. To delete a task, click the "Delete" button next to the task.
+
+---
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
