@@ -1,14 +1,14 @@
-﻿# Intro Mini Project 
+﻿# Introduction Of Mini Projects
 ## Overview
 
-IntroTheme is a stylish and minimalist landing page template designed to introduce a website or application. It features a clean layout with modern typography and subtle animations.
+Mini Project Web page is a stylish and minimalist landing page template designed to introduce a website or application. It features a clean layout with modern typography and subtle animations.
 
 ![IntroTheme Preview](https://github.com/xshshahab/Mini_Project/blob/main/Themes/IntroTheme.png)
 
 ### Technologies Used
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 
 # Mini Projects Collection
@@ -31,8 +31,8 @@ This repository contains a collection of mini projects developed using HTML, CSS
 
    ### Technologies Used
 
-   - HTML
-   - CSS
+   - HTML5
+   - CSS3
    - JavaScript
 ---
 2. **Image Search Engine**
@@ -71,7 +71,7 @@ This project theme showcases a user-friendly age calculator. The theme is design
 
 ## Usage
 
-To use this theme in your project:
+To use this app in your project:
 
 1. **Clone the Repository**: 
     ```bash
