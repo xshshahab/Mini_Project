@@ -1,5 +1,4 @@
-﻿# Introduction Of Mini Projects
-## Overview
+﻿# Introduction Of Mini Projects.
 
 Mini Project Web page is a stylish and minimalist landing page template designed to introduce a website or application. It features a clean layout with modern typography and subtle animations.
 
@@ -7,8 +6,8 @@ Mini Project Web page is a stylish and minimalist landing page template designed
 
 ### Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 # Mini Projects Collection
@@ -31,8 +30,8 @@ This repository contains a collection of mini projects developed using HTML, CSS
 
    ### Technologies Used
 
-   - HTML5
-   - CSS3
+   - HTML
+   - CSS
    - JavaScript
 ---
 2. **Image Search Engine**
@@ -65,8 +64,8 @@ This project theme showcases a user-friendly age calculator. The theme is design
 
 ## Technologies Used
 
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and layout.
+- **HTML**: For structuring the content.
+- **CSS**: For styling and layout.
 - **JavaScript**: For interactive features and functionalities.
 
 ## Usage
